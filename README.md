@@ -6,3 +6,5 @@ ejercicio3 = suma y producto de dos numeros por teclado.
 ejercicio4 = calcular total a pagar segun precio y cantidad (enteros)
 
 ejercicio5=calcular el perimetro de un cuadrado
+
+ejercicio10= if else (decir que numero es mas grande)
