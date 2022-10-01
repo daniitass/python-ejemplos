@@ -8,3 +8,5 @@ ejercicio4 = calcular total a pagar segun precio y cantidad (enteros)
 ejercicio5=calcular el perimetro de un cuadrado
 
 ejercicio10= if else (decir que numero es mas grande)
+
+ejercicio11= Realizar un programa que solicite la carga por teclado de dos números, si el primero es mayor al segundo informar su suma y diferencia, en caso contrario informar el producto y la división del segundo respecto al primero
