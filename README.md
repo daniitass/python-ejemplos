@@ -1,5 +1,5 @@
 # python-ejercicios
-ejercicios resueltos de python 
+ejercicios resueltos de python BASICOS
 
 ejercicio3 = suma y producto de dos numeros por teclado.
 
